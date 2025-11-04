@@ -12,19 +12,6 @@ The goal of this Exploratory Data Analysis (EDA) is to uncover key insights abou
 - **Rows & Columns:** (mention count after loading, e.g. 3900 rows × 18 columns)
 - **Description:** The dataset contains information about customer demographics, annual income, spending score, and product preferences.
 
-### 🧾 Key Columns:
-| Column Name | Description |
-|--------------|-------------|
-| `Customer ID` | Unique identifier for each customer |
-| `Gender` | Gender of the customer |
-| `Age` | Age of the customer |
-| `Annual Income` | Annual income in USD |
-| `Spending Score` | Score assigned based on spending habits |
-| `Profession` | Occupation of the customer |
-| `Work Experience` | Number of years of work experience |
-| `Family Size` | Number of family members |
-| `Category` | Type of products purchased |
-
 ---
 
 ## 🧠 Objectives of the EDA
