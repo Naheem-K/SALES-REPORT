@@ -26,10 +26,9 @@ The goal of this Exploratory Data Analysis (EDA) is to uncover key insights abou
 ## 🛠️ Tools & Libraries Used
 - **Python**
 - **Pandas**
-- **NumPy**
 - **Matplotlib**
 - **Seaborn**
-- **Plotly** *(optional if used)*
+-
 
 ---
 
